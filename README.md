@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AminaHidha/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AminaHidha/leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
