@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AminaHidha/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+## Array
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AminaHidha/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## String
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AminaHidha/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
