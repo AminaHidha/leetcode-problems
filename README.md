@@ -19,9 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AminaHidha/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AminaHidha/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
