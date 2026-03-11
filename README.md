@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/AminaHidha/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AminaHidha/leetcode-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AminaHidha/leetcode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AminaHidha/leetcode-problems/tree/master/3232-find-if-digit-game-can-be-won) |
