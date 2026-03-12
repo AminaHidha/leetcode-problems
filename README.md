@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/AminaHidha/leetcode-problems/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/AminaHidha/leetcode-problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
