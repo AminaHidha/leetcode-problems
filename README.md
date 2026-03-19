@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AminaHidha/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/AminaHidha/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/AminaHidha/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AminaHidha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AminaHidha/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/AminaHidha/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1550-three-consecutive-odds](https://github.com/AminaHidha/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/AminaHidha/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/AminaHidha/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/AminaHidha/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AminaHidha/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/AminaHidha/leetcode-problems/tree/master/2974-minimum-number-game) |
 ## Database
