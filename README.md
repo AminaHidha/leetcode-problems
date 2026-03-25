@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AminaHidha/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AminaHidha/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/AminaHidha/leetcode-problems/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AminaHidha/leetcode-problems/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AminaHidha/leetcode-problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AminaHidha/leetcode-problems/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AminaHidha/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
