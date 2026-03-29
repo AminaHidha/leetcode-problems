@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/AminaHidha/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1550-three-consecutive-odds](https://github.com/AminaHidha/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/AminaHidha/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AminaHidha/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AminaHidha/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AminaHidha/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AminaHidha/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AminaHidha/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/AminaHidha/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AminaHidha/leetcode-problems/tree/master/0169-majority-element) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
 | ------- |
