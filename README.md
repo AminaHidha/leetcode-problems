@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
