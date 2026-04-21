@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/AminaHidha/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AminaHidha/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1539-kth-missing-positive-number](https://github.com/AminaHidha/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/AminaHidha/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AminaHidha/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AminaHidha/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AminaHidha/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/AminaHidha/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
