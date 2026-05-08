@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/AminaHidha/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AminaHidha/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AminaHidha/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AminaHidha/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/AminaHidha/leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AminaHidha/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/AminaHidha/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AminaHidha/leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AminaHidha/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AminaHidha/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AminaHidha/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
