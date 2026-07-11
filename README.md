@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/AminaHidha/leetcode-problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AminaHidha/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/AminaHidha/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/AminaHidha/leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/AminaHidha/leetcode-problems/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AminaHidha/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
