@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/AminaHidha/leetcode-problems/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/AminaHidha/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AminaHidha/leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AminaHidha/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/AminaHidha/leetcode-problems/tree/master/2974-minimum-number-game) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AminaHidha/leetcode-problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AminaHidha/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/AminaHidha/leetcode-problems/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/AminaHidha/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [3019-number-of-changing-keys](https://github.com/AminaHidha/leetcode-problems/tree/master/3019-number-of-changing-keys) |
 ## Matrix
 |  |
