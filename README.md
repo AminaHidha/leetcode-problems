@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AminaHidha/leetcode-problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AminaHidha/leetcode-problems/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
