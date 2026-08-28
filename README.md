@@ -218,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/AminaHidha/leetcode-problems/tree/master/3024-type-of-triangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AminaHidha/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
